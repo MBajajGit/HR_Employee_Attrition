@@ -1,2 +1,4 @@
-# HR_Employee_Attrition
-Python Machine Learning Project on HR Attrition. In this project, we try to help HR identify Employees who are about to leave the organization or have already left the organization.
+## HR Attrition Machine Learning Solution
+
+ 
+To  checkout my notebook, please click [here](https://github.com/MBajajGit/HR_Employee_Attrition/blob/main/HR_Analytics.ipynb)
